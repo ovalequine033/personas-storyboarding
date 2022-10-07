@@ -1,0 +1,35 @@
+#observations {
+    background-color: lightblue;
+  }
+  
+  /* Uncomment below if images are way too big.
+  Selects all image tags and makes them 500px;
+   */
+img {
+    width: 350px;
+}
+
+.persona-map {
+    width: 500px;
+}
+
+  
+.personas-container {
+    /* TODO add styles (hint: use flex!) https://www.w3schools.com/cssref/ */
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.storyboard-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightblue;
+}
+
+.storyboard-item {
+    width: 350px;
+    padding: 1em;
+}

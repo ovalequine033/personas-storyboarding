@@ -1,0 +1,54 @@
+{
+"name": "vending machine",
+"aspect_ratio": 0,
+"frames": [
+{
+"frame_number": "1",
+"label": "At 2 am, Tony is working hard on an essay due in the morning. He is tired and hungry, and he really needs some food to get her through.",
+"voiceover": null,
+"direction": "he goes to sleep",
+"duration": 2000,
+"file_name": "frame-0001.jpg"
+},
+{
+"frame_number": "2",
+"label": "He checks his phone to see what food he could order, but none of the restaurants and stores in the area are open this late.",
+"voiceover": null,
+"direction": null,
+"duration": 2000,
+"file_name": "frame-0002.jpg"
+},
+{
+"frame_number": "3",
+"label": "Tony realizes that there is a vending machine in the lobby of the library. The machine has his favorite snack available.",
+"voiceover": null,
+"direction": null,
+"duration": 2000,
+"file_name": "frame-0003.jpg"
+},
+{
+"frame_number": "4",
+"label": "Tony taps his credit card on the credit card reader and uses the number pad to select the snack he wants. He receives his snack.",
+"voiceover": null,
+"direction": null,
+"duration": 2000,
+"file_name": "frame-0004.jpg"
+},
+{
+"frame_number": "5",
+"label": "Tony eats the snack and is feeling more energized.",
+"voiceover": null,
+"direction": null,
+"duration": 2000,
+"file_name": "frame-0005.jpg"
+},
+{
+"frame_number": "6",
+"label": "With the energy from the snack, he is much more motivated and goes back to work.",
+"voiceover": null,
+"direction": null,
+"duration": 2000,
+"file_name": "frame-0006.jpg"
+}
+]
+}

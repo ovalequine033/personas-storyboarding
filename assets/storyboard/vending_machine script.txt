@@ -1,0 +1,38 @@
+FRAME 1:
+
+Label: At 2 am, Tony is working hard on an essay due in the morning. He is tired and hungry, and he really needs some food to get her through.
+
+Action: he goes to sleep
+
+---
+
+FRAME 2:
+
+Label: He checks his phone to see what food he could order, but none of the restaurants and stores in the area are open this late.
+
+---
+
+FRAME 3:
+
+Label: Tony realizes that there is a vending machine in the lobby of the library. The machine has his favorite snack available.
+
+---
+
+FRAME 4:
+
+Label: Tony taps his credit card on the credit card reader and uses the number pad to select the snack he wants. He receives his snack.
+
+---
+
+FRAME 5:
+
+Label: Tony eats the snack and is feeling more energized.
+
+---
+
+FRAME 6:
+
+Label: With the energy from the snack, he is much more motivated and goes back to work.
+
+---
+
