@@ -9,10 +9,14 @@ img {
     width: 350px;
 }
 
+.personas-item {
+    width: 500px;
+    padding: 1em;
+}
+
 .persona-map {
     width: 500px;
 }
-
   
 .personas-container {
     /* TODO add styles (hint: use flex!) https://www.w3schools.com/cssref/ */
